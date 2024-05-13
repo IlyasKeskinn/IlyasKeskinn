@@ -126,7 +126,9 @@ out!
 </p>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasKeskinn&layout=compact&theme=radical"  alt="IlyasKeskinn" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasKeskinn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <img align="left"
     src="https://github-readme-stats.vercel.app/api?username=IlyasKeskinn&show_icons=true&locale=en&theme=radical"
@@ -134,4 +136,3 @@ out!
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=IlyasKeskinn&theme=radical"
     alt="IlyasKeskinn" />
-
