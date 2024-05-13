@@ -130,9 +130,9 @@ out!
 
 
 
-<img align="left"
+<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=IlyasKeskinn&show_icons=true&locale=en&theme=radical"
     alt="IlyasKeskinn" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=IlyasKeskinn&theme=radical"
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IlyasKeskinn&theme=radical"
     alt="IlyasKeskinn" />
