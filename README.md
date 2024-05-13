@@ -25,11 +25,11 @@ out!
 <h5 align="left">Zephyra E-commerce</h5>
 <ul>
     <li>
-        🔭 Zephyra E-commerce project : <a href="https://ilyaskeskinn.github.io/e-commerce/" target="_blank"
+        <a href="https://ilyaskeskinn.github.io/e-commerce/" target="_blank"
             rel="noreferrer">Live</a>
     </li>
     <li>
-        Git Repo : <a href="https://github.com/IlyasKeskinn/e-commerce" target="_blank" rel="noreferrer">Repo</a>
+        <a href="https://github.com/IlyasKeskinn/e-commerce" target="_blank" rel="noreferrer">Git Repo</a>
     </li>
 </ul>
 
