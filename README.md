@@ -32,6 +32,12 @@ out!
         <a href="https://github.com/IlyasKeskinn/e-commerce" target="_blank" rel="noreferrer">Git Repo</a>
     </li>
 </ul>
+<h5 align="left">Ticket Trail</h5>
+<ul>
+    <li>
+        <a href="https://github.com/IlyasKeskinn/ticket-trail" target="_blank" rel="noreferrer">Git Repo</a>
+    </li>
+</ul>
 
 <h3 align="left">Get in touch with me:</h3>
 <p align="left">
